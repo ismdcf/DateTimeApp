@@ -3,7 +3,7 @@
 ## To Run The App use
 
 ```sh 
-cd <to root of project>
+cd <to root of project> //in this case its my-app
 ```
 after which try 
 ```sh
